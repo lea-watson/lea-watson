@@ -55,7 +55,10 @@ a {
     color: #009ce0; }
 
 #main {
-  padding: 50px; }
+  padding: 50px; text-align: center }
+  #second { 
+    padding: 50px; text-align: center
+  }
 h1 {
   font-size: 8em;
   color: #ff69b4;
