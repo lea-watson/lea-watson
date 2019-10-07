@@ -50,14 +50,17 @@ body {
   color: #2a2a2a; }
 
 a {
-  color: #0388a6; }
+  color: black; }
   a:hover {
-    color: #009ce0; }
+    color: lightseagreen; }
 
 #main {
   padding: 50px; text-align: center }
   #second { 
     padding: 50px; text-align: center
+  }
+  #third {
+    padding: 50px; text-align: left; 
   }
 h1 {
   font-size: 8em;
@@ -67,5 +70,4 @@ h1 {
   color: #2a2a2a; }
   h1 {
     font: size 6;
-    color: #ffad69f6;
-  
+    color: #ffad69f6; 
