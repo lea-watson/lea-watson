@@ -19,7 +19,7 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body {
-  line-height: 1; }
+  line-height: 1.5; }
 
 ol, ul {
   list-style: none; }
@@ -47,7 +47,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: sans-serif;
-  color: #2a2a2a; }
+  color: #2a2a2a;
+font-size: 1em }
 
 a {
   color: black; }
@@ -76,7 +77,5 @@ h1 {
 body {
   padding-top: 3.5rem;
 }
-h2 {
-  padding: 2in;
-}
+ 
 
